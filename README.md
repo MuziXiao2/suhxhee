@@ -1,11 +1,13 @@
-## 关于我 😶
+<center><span style="font-size:24px;" style="text-align: center;">👋 Hello！I am xiao2.</span></center>
 
 ---
+### About me😶
+- 在中中国人
+- 擅长语言：汉语、日本語、Englist
 
-### 🇨🇳在中中国人
-### 擅长语言：汉语、日本語、Englist
+### Github Stats
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhxhee)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhxhee)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
